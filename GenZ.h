@@ -36,5 +36,3 @@
 #define hood namespace
 #define pluh throw
 #define skidadle return
-#define addy &
-#define ovathere *
