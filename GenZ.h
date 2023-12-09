@@ -14,7 +14,7 @@
 #define rizz float
 #define chonkrizz double
 #define deez bool
-#define whatthedawgdoin void
+#define icespice void
 #define haur char
 #define tbomb sti::string
 #define	krrakrra sti::vector
@@ -36,3 +36,4 @@
 #define hood namespace
 #define pluh throw
 #define skidadle return
+#define whatdadawgdoin while
